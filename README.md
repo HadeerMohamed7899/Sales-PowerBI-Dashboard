@@ -20,7 +20,8 @@ Star schema is used as we are focusing on retrieving insights from the data rath
 ![SalesModel](https://user-images.githubusercontent.com/128556308/236643109-f8b16117-f987-4ade-b4b8-17a47ca8e20c.PNG)
 
 ## Dashboard
-![SalesDataAnalysis](https://user-images.githubusercontent.com/128556308/236643124-cde78ac2-d18a-4ad9-83c9-2c98f02ad42d.PNG)
+![SalesDataAnalysisPNG](https://user-images.githubusercontent.com/128556308/236643256-77eb076f-df1b-4e92-b1e5-c573c7767386.PNG)
+
 
 
 
